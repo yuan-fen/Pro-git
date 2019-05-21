@@ -6,6 +6,8 @@ public class Hello {
 		System.out.println("============");
 		
 		System.out.println(" I am fine");
+		
+		System.err.println("xxx");
 	}
 
 }
